@@ -28,5 +28,14 @@ blockquote hr{
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    background-color: black !important;
+    background-color: #212529 !important;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+#local {
+    padding: 100px 100px;
 }
