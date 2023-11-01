@@ -1,17 +1,17 @@
 :root {
-    --bs-link-color: rgba(33, 37, 41) !important;
+  --bs-link-color: rgba(33, 37, 41) !important;
 }
 
 section {
   scroll-margin-top: 6rem;
 }
 
-.navbar-brand img {
-  width: 60px;
-}
-
 main {
   margin: 5rem 0 0 0;
+}
+
+.navbar-brand img {
+  width: 60px;
 }
 
 .carousel-item {
